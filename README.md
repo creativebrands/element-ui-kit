@@ -18,5 +18,4 @@ Symbols make it easy to insert components and create customized layouts. Symbols
 <img src="https://github.com/hydrogen-dev/element-ui-kit/blob/master/img/symbols.png">
 
 ## Copyright & License
-Copyright 2018 The Hydrogen Technology Corporation under the MIT License.
-
+Copyright 2019 The Hydrogen Technology Corporation under the MIT License.
